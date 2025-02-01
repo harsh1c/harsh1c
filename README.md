@@ -42,7 +42,7 @@ I’m constantly working on new ideas! Check out my repositories for projects co
 I’m always open to new opportunities and collaborations. Let’s build something great together!
 
 📧 **Email:** [chandrawalharsh@gmail.com](chandrawalharsh@gmail.com)  
-💼 **LinkedIn:** [Connect Here](www.linkedin.com/in/harsh-chandrawal-a91275320)    
+💼 **LinkedIn:** [Connect Here](https://www.linkedin.com/in/harsh-chandrawal-a91275320)
 
 If you like my work, consider dropping a ⭐ on my projects! 🚀
 
