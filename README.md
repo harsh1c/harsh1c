@@ -16,7 +16,7 @@ Hey there! 👋 I'm glad you stopped by. I'm a dedicated **BCA student** with a 
 
 ## 🛠️ Skills & Technologies
 
-- **Programming Languages:** Python 🐍 | JavaScript ⚡
+- **Programming Languages:** Python 🐍 | HTML | CSS
 - **Machine Learning & Data Science:** Scikit-learn | NLP | Pandas | NumPy 📊
 - **Development Tools:** CLI-based Applications | API Integration 💻
 - **Version Control:** Git & GitHub 🚀
@@ -31,11 +31,6 @@ A **CLI-based location intelligence tool** that provides detailed geographic ins
 ### 🎭 [YouTube Sentiment Analysis](#)
 A machine learning project using **NLP** to analyze sentiment trends in YouTube comments.
 
-### 📊 [Spirometry Data Analysis](#)
-A data-driven project analyzing lung function metrics using **statistical and machine learning techniques**.
-
-### 🔍 [GitHub Profile Analyzer](#)
-A tool that provides insights into GitHub profiles, analyzing repositories, languages, and contributions.
 
 ### 🛠 [More Projects](#)
 I’m constantly working on new ideas! Check out my repositories for projects covering **machine learning, data analysis, and automation**.
@@ -46,10 +41,8 @@ I’m constantly working on new ideas! Check out my repositories for projects co
 
 I’m always open to new opportunities and collaborations. Let’s build something great together!
 
-📧 **Email:** [Your Email](#)  
-💼 **LinkedIn:** [Connect Here](#)  
-🐦 **Twitter:** [Follow Me](#)  
-🌍 **Portfolio (Coming Soon)**  
+📧 **Email:** [Your Email](chandrawalharsh@gmail.com)  
+💼 **LinkedIn:** [Connect Here](#)    
 
 If you like my work, consider dropping a ⭐ on my projects! 🚀
 
