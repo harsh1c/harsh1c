@@ -25,7 +25,7 @@ Hey there! 👋 I'm glad you stopped by. I'm a dedicated **BCA student** with a 
 
 ## 🚀 Featured Projects
 
-### 🌍 [GeoInsight](#)
+### 🌍 [GeoInsight](https://github.com/harsh1c/Harvard_CS50p/tree/main/Final_Project)
 A **CLI-based location intelligence tool** that provides detailed geographic insights using the **Geoapify API**.
 
 ### 🎭 [YouTube Sentiment Analysis](#)
