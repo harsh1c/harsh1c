@@ -4,7 +4,7 @@
 
 ### Python Developer • Automation • Machine Learning
 
-*Turning caffeine into Python scripts since 2023.*
+*"There is no patch for curiosity."*
 
 </div>
 
