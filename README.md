@@ -1,41 +1,61 @@
-### Hi there 👋...I am Harsh Chandrawal
-# 🚀 Welcome to My GitHub Profile!
+Harsh Chandrawal
 
-Hey there! 👋 I'm glad you stopped by. I'm a dedicated **BCA student** with a passion for **AI, machine learning, and open-source development**. My focus is on building meaningful projects that solve real-world problems.
+Python Developer | Web Scraping | Automation | Machine Learning
 
----
-
-## 🔥 About Me
-- 🎓 **2nd-Year BCA Student**
-- 💡 Interested in **AI, Machine Learning, and Data Science**
-- 🌍 Exploring **CLI-based Development and Open Source Contributions**
-- 🏆 Preparing for **Google Summer of Code (GSoC) 2025**
-- 🎯 Constantly learning and improving my coding skills
+I build Python applications for data extraction, automation, and machine learning. My interests include scalable web scraping, browser automation, and AI-driven solutions.
 
 ---
 
-## 🛠️ Skills & Technologies
+Current Focus
 
-- **Programming Languages:** Python 🐍 | HTML | CSS
-- **Machine Learning & Data Science:** Scikit-learn | NLP | Pandas | NumPy 📊
-- **Development Tools:** CLI-based Applications | API Integration 💻
-- **Version Control:** Git & GitHub 🚀
+• Python Development
+• Web Scraping with Scrapy & Playwright
+• Machine Learning
+• Open Source
+
+---
+
+Tech Stack
+
+Python
+Scrapy
+Playwright
+Selenium
+Pandas
+NumPy
+Scikit-learn
+Git
+Docker
+Linux
 
 ---
 
-## 🚀 Featured Projects
+Featured Projects
 
-### 🌍 [GeoInsight](https://github.com/harsh1c/Harvard_CS50p/tree/main/Final_Project)
-A **CLI-based location intelligence tool** that provides detailed geographic insights using the **Geoapify API**.
+🏠 Rightmove Scraper
+...
 
-### 🎭 [YouTube Sentiment Analysis](#)
-A machine learning project using **NLP** to analyze sentiment trends in YouTube comments.
+🌍 GeoInsight
+...
 
-
-### 🛠 [More Projects](#)
-I’m constantly working on new ideas! Check out my repositories for projects covering **machine learning, data analysis, and automation**.
+❤️ Heart Disease Prediction
+...
 
 ---
+
+Currently Learning
+
+• Advanced Python
+• Machine Learning Mathematics
+• System Design for Data Applications
+
+---
+
+Connect
+
+GitHub
+LinkedIn
+Email
 
 ## 🌟 Let's Connect!
 
