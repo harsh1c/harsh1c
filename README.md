@@ -1,61 +1,68 @@
-Harsh Chandrawal
+<div align="center">
 
-Python Developer | Web Scraping | Automation | Machine Learning
+# Hey, I'm Harsh 👋
 
-I build Python applications for data extraction, automation, and machine learning. My interests include scalable web scraping, browser automation, and AI-driven solutions.
+### Python Developer • Automation • Machine Learning
 
----
+*Turning caffeine into Python scripts since 2023.*
 
-Current Focus
-
-• Python Development
-• Web Scraping with Scrapy & Playwright
-• Machine Learning
-• Open Source
+</div>
 
 ---
 
-Tech Stack
+## 👨‍💻 About Me
 
-Python
-Scrapy
-Playwright
-Selenium
-Pandas
-NumPy
-Scikit-learn
-Git
-Docker
-Linux
+* 🕷 Building web scrapers and automation tools
+* 🤖 Exploring machine learning and data science
+* 🐧 Linux enjoyer
+* 🚀 Always working on the next project
+
+## ⚒️ Tech Stack
+
+```text
+Python • Scrapy • Playwright • Selenium
+Pandas • NumPy • Scikit-learn
+Git • Linux • REST APIs
+```
+
+## 📌 Featured Projects
+
+### 🌍 GeoInsight
+
+A CLI application for location intelligence powered by external APIs.
+
+### 🏠 Property Scrapers
+
+Python tools for extracting and organizing real estate data.
+
+### ❤️ Machine Learning
+
+Building models and experimenting with real-world datasets.
+
+## 🌱 Currently Learning
+
+* Advanced Python
+* Machine Learning
+* Better software design
+
+## 📫 Connect
+
+💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+
+📧 Email: YOUR_EMAIL
 
 ---
 
-Featured Projects
+```bash
+$ whoami
 
-🏠 Rightmove Scraper
-...
+Harsh
+Python Developer
+Professional bug creator.
+Occasional bug fixer.
+```
 
-🌍 GeoInsight
-...
-
-❤️ Heart Disease Prediction
-...
-
----
-
-Currently Learning
-
-• Advanced Python
-• Machine Learning Mathematics
-• System Design for Data Applications
-
----
-
-Connect
-
-GitHub
-LinkedIn
-Email
+</div>
 
 ## 🌟 Let's Connect!
 
