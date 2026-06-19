@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hey, I'm Harsh 👋
 
 ### Python Developer • Automation • Machine Learning
@@ -24,7 +23,6 @@ Python • Scrapy • Playwright • Selenium
 Pandas • NumPy • Scikit-learn
 Git • Linux • REST APIs
 ```
-
 ## 📌 Featured Projects
 
 ### 🌍 GeoInsight
