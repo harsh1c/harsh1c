@@ -25,20 +25,6 @@ Pandas • NumPy • Scikit-learn
 Git • Linux • REST APIs
 ```
 
-## 📌 Featured Projects
-
-### 🌍 GeoInsight
-
-A CLI application for location intelligence powered by external APIs.
-
-### 🏠 Property Scrapers
-
-Python tools for extracting and organizing real estate data.
-
-### ❤️ Machine Learning
-
-Building models and experimenting with real-world datasets.
-
 ## 🌱 Currently Learning
 
 * Advanced Python
