@@ -45,31 +45,12 @@ Building models and experimenting with real-world datasets.
 * Machine Learning
 * Better software design
 
-## 📫 Connect
-
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-
-📧 Email: YOUR_EMAIL
-
----
-
-```bash
-$ whoami
-
-Harsh
-Python Developer
-Professional bug creator.
-Occasional bug fixer.
-```
-
-</div>
-
 ## 🌟 Let's Connect!
 
 I’m always open to new opportunities and collaborations. Let’s build something great together!
 
 📧 **Email:** [chandrawalharsh@gmail.com](chandrawalharsh@gmail.com)  
-💼 **LinkedIn:** [Connect Here](https://www.linkedin.com/in/harsh-chandrawal-a91275320)
+💼 **LinkedIn:** [Connect Here](https://www.linkedin.com/in/harsh-chandrawal)
 
 If you like my work, consider dropping a ⭐ on my projects! 🚀
 
