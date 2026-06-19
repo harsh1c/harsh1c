@@ -20,9 +20,7 @@
 ## ⚒️ Tech Stack
 
 ```text
-Python • Scrapy • Playwright • Selenium
-Pandas • NumPy • Scikit-learn
-Git • Linux • REST APIs
+Python • Scrapy • Playwright • Selenium • Pandas • NumPy • Scikit-learn • Git • Linux
 ```
 
 ## 🌱 Currently Learning
