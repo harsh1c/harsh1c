@@ -4,7 +4,7 @@
 
 ### Python Developer • Automation • Machine Learning
 
-*"There is no patch for curiosity."*
+*"Perfection is the end of possibility, for stagnation is a quieter death."*
 
 </div>
 
